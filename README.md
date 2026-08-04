@@ -38,7 +38,7 @@ vault/
 直接对 AI 说：
 
 ```
-帮我用 wiki-init 初始化这个目录：[/path/to/your/vault](https://github.com/liuly66/wiki-init-skill)
+帮我用 wiki-init 初始化这个目录：https://github.com/liuly66/wiki-init-skill
 ```
 
 就这样，AI 会自动创建完整的目录结构和所有文件。
